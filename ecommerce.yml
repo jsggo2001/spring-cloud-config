@@ -1,6 +1,6 @@
-token:
-  expiration_time: 864000000
-  secret: my_token_changed
+# token:
+#   expiration_time: 864000000
+#   secret: "{cipher}AQB3FDa/AiE7PAkzFH1Ju1wGIxwt5B7J3AJmGioK25cHfZmmCORG+vuko8XR2hUx8CYrQg/1HMLMFqGfnJp/OJzjtYkODie57r5IqlN8qsSZm2EIMAQmA3X2j/A//QU6w3lh/yLNnUYQh3DoMHOyMwlEKNDiAfRa5PEffKTL3AlUv4dSolZ6G3vlekT0DOoaOJEoxPA8w7Q4YvxBk8uBH+7jvf2alv2TuVGyVSreZphR7ytkbxvyE/P1Re54b4xdY/asEK3UB+4PrFG9coI7K/ktmg1e35Ia8MBpEpP2n2ukrizp4hEsfxsivhcL4IJ4pfpoW6Rvz5ensaCCv6DfNzQ3kL1ky9lK229NElNJOd8/D4m/5bHtyrwx/I8MCa47+g+5iCBRM5edXPgr08L87ETd"
 
 gateway:
   ip: 192.168.43.230
